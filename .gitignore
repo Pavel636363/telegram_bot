@@ -1,5 +1,6 @@
 /venv/
 /.idea/
-bot_ignore.py
-bot_ignore2.py
-
+/bot_ignore.py
+/bot_ignore2.py
+/bot_ignore3.py
+/bot_ignore5.py
